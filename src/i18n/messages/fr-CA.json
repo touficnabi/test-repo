@@ -1,0 +1,11 @@
+{
+    "fr-CA" : {
+        "unlock" : "DÉVERROUILLEZ LE SECRET",
+        "win" : "POUR UNE CHANCE DE GAGNER *",
+        "money" : "cent mille",
+        "home" : {
+            "heading" : "I am a test object",
+            "body" : "Hello World"
+        }
+    }
+}

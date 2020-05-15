@@ -1,0 +1,11 @@
+{
+    "en-CA" : {
+        "unlock" : "UNLOCK THE SECRET",
+        "win" : "FOR A CHANCE TO WIN*",
+        "money" : "Thousand",
+        "home" : {
+            "heading" : "Je suis un objet de test",
+            "body" : "Bonjour le monde"
+        }
+    }
+}

@@ -11,6 +11,7 @@ class Homepage extends Component{
                     <h1>{translate('unlock')}</h1>
                     <h1>{translate('win')}</h1>
                     <h1>{translate('money')}</h1>
+                    <p>{translate('home.heading')}</p>
                 </div>
             
             </Fragment>
